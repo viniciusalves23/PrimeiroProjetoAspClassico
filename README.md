@@ -13,5 +13,4 @@
 ## Resultado:
 ![](https://github.com/viniciusalves23/PrimeiroProjetoAspClassico/blob/master/FuncionamentoTelasAsp.gif)
 
-
-
+### Foi utilizado o objeto Session para passar informações de uma tela para outra.
