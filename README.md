@@ -1,7 +1,7 @@
 # Primeiro Projeto com Asp Classico
 
 
-## Creation of two ASP screens. Requirements:
+## Criação de duas telas em ASP. Requisitos:
 <ul>
   <li>A tela deve possuir campos de cpf, nome e data de nascimento e um botão salvar.</li>
   <li>Todos os campos são obrigatórios e devem ser validados via JavaScript</li>
@@ -10,8 +10,8 @@
   <li>Todas as informações digitadas devem ser apresentadas na tela "B"</li>
 </ul>
 
-##Resultado:
-![](name-of-giphy.gif)
+## Resultado:
+![](https://github.com/viniciusalves23/PrimeiroProjetoAspClassico/blob/master/FuncionamentoTelasAsp.gif)
 
 
 
